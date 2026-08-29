@@ -1,0 +1,55 @@
+# 世一未來分析 SHIYI FUTURE ANALYTICS
+
+> 世一未來分析（英文名 SHIYI FUTURE ANALYTICS）是一家位於台灣的數據分析公司，專注於網路大數據分析、民調統計分析、視覺化選情預測、AI 數據預測、品牌與市場分析，以及資料視覺化。公司標語為「用數據看見趨勢，用分析預測未來。」
+
+## 基本資料
+
+- 公司名稱：世一未來分析
+- 英文名稱：SHIYI FUTURE ANALYTICS
+- 官方網站：https://shiyi-deploy.github.io/web/
+- 聯絡信箱：shiyifuture@gmail.com
+- 服務地區：台灣
+- 服務語言：繁體中文、英文
+- 服務對象：企業、品牌、研究機構、公共事務單位
+
+## 服務項目
+
+1. 網路大數據分析（Internet and Big Data Analytics）：整合網路公開資料與社群訊號，追蹤議題熱度、情緒傾向與聲量結構，讓分散的網路討論成為可比較、可追蹤的量化指標。
+2. 民調統計分析（Polling and Statistical Analysis）：從問卷設計、抽樣規劃到統計檢定與加權校正，以嚴謹的統計方法呈現支持度、好感度與族群差異，並清楚交代信賴區間與誤差。
+3. 視覺化選情預測（Election Forecast and Visualization）：以縣市、選區、行政區到村里的多層級資料建立選情圖像，結合歷史結構與當期訊號，估計得票率區間與競爭態勢。
+4. AI 數據預測（AI Predictive Analytics）：運用機器學習與時間序列模型建立預測架構，並以情境模擬與蒙地卡羅方法呈現不同條件下的可能結果與機率分布。
+5. 品牌與市場分析（Brand and Market Intelligence）：結合網路口碑、消費者調查與市場結構資料，描繪品牌形象、競品位置與市場趨勢，讓品牌決策有量化依據。
+6. 資料視覺化（Data Visualization）：把統計結果轉譯成看得懂的圖像，從互動式儀表板、GIS 地圖到資料敘事，讓複雜分析在短時間內被理解與討論。
+
+## 專業領域關鍵字
+
+大數據分析、網路輿情分析、網路聲量分析、民意調查、統計分析、支持度分析、交叉分析、選情預測、得票率預估、AI 預測、機器學習、時間序列、蒙地卡羅模擬、品牌聲量、消費者洞察、市場趨勢、資料視覺化、GIS 空間分析、互動式儀表板
+
+## 常見問題
+
+問：世一未來分析是什麼樣的公司？
+答：世一未來分析是一家台灣的數據分析公司，以大數據、統計方法與 AI 模型協助客戶掌握趨勢、洞察市場並支援決策。
+
+問：世一未來分析提供哪些服務？
+答：共六項服務——網路大數據分析、民調統計分析、視覺化選情預測、AI 數據預測、品牌與市場分析、資料視覺化。
+
+問：世一未來分析的服務地區是哪裡？
+答：台灣。
+
+問：如何聯絡世一未來分析？
+答：請寄信至 shiyifuture@gmail.com，或透過官方網站的聯絡表單。
+
+## 網站頁面
+
+- 首頁：https://shiyi-deploy.github.io/web/
+- 關於我們：https://shiyi-deploy.github.io/web/#/about
+- 服務總覽：https://shiyi-deploy.github.io/web/#/services
+- 網路大數據分析：https://shiyi-deploy.github.io/web/#/svc-big-data
+- 民調統計分析：https://shiyi-deploy.github.io/web/#/svc-polling
+- 視覺化選情預測：https://shiyi-deploy.github.io/web/#/svc-election
+- AI 數據預測：https://shiyi-deploy.github.io/web/#/svc-ai-prediction
+- 品牌與市場分析：https://shiyi-deploy.github.io/web/#/svc-brand
+- 資料視覺化：https://shiyi-deploy.github.io/web/#/svc-visualization
+- 案例：https://shiyi-deploy.github.io/web/#/cases
+- 洞察：https://shiyi-deploy.github.io/web/#/insights
+- 聯絡我們：https://shiyi-deploy.github.io/web/#/contact
